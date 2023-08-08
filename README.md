@@ -2,7 +2,14 @@
 <br/><br/><br/>
 
 
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatusevichVadim&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="MatusevichVadim" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=MatusevichVadim&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="MatusevichVadim" align = "center"/></p>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MatusevichVadim&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="MatusevichVadim" /></p>
+<p align="center">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matusevichvadim&hide_border=true&show_icons=true&theme=tokyonight"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matusevichvadim&hide_border=true&layout=compact&theme=tokyonight"/>
+	<br>
+	<img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=MatusevichVadim&hide_border=true&theme=tokyonight"/> 
+</p>
+<p align="center">
+	<a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=python,django,fastapi,html,css,bootstrap,js,react,postgresql,postman,bash,git,docker" />
+	</a>
+</p>
